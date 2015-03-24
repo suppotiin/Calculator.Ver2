@@ -1,0 +1,24 @@
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\normidna.nlp
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\Calculator.exe.config
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\Calculator.exe
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\bin\Debug\Calculator.pdb
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\Calculator.exe
+C:\Users\VS9 X64Bit\Desktop\111111111111111111111\WindowsFormsApplication1\obj\Debug\Calculator.pdb
